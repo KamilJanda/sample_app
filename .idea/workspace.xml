@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92f92ae8-0760-4a08-b775-6bf776f7ecc1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -381,7 +379,7 @@
       <option name="presentableId" value="Default" />
       <updated>1518697982480</updated>
       <workItem from="1518697983704" duration="15787000" />
-      <workItem from="1519252602811" duration="7521000" />
+      <workItem from="1519252602811" duration="7820000" />
     </task>
     <task id="LOCAL-00001" summary="update readme">
       <created>1518698454536</created>
@@ -474,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519389597374</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="sign up">
+      <created>1519395046660</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1519395046660</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23308000" />
+    <option name="totallyTimeSpent" value="23607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="0" />
